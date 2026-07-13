@@ -5,12 +5,12 @@
 ## Требования / Requirements
 
 > [!IMPORTANT]
-> * 🇷🇺 Архив **ДОЛЖЕН** быть полностью распакован на Рабочий стол текущего пользователя перед запуском. Работа напрямую из ZIP/RAR архива приведет к ошибкам путей!
-> * 🇷🇺 Сам исполняемый файл лоадера `AvalancheLoader.exe` **ОБЯЗАТЕЛЬНО** должен предварительно лежать в папке `C:\Avalanche\`.
+>  🇷🇺 Архив **ДОЛЖЕН** быть полностью распакован на Рабочий стол текущего пользователя перед запуском. Работа напрямую из ZIP/RAR архива приведет к ошибкам путей!
+>  🇷🇺 Сам исполняемый файл лоадера `AvalancheLoader.exe` **ОБЯЗАТЕЛЬНО** должен предварительно лежать в папке `C:\Avalanche\`.
 
 > [!IMPORTANT]
-> * 🇺🇸 The archive **MUST** be fully unpacked onto your Desktop before running. Executing scripts inside a ZIP/RAR archive will cause directory errors.
-> * 🇺🇸 The actual `AvalancheLoader.exe` file **MUST** be pre-located inside the `C:\Avalanche\` root directory.
+>  🇺🇸 The archive **MUST** be fully unpacked onto your Desktop before running. Executing scripts inside a ZIP/RAR archive will cause directory errors.
+>  🇺🇸 The actual `AvalancheLoader.exe` file **MUST** be pre-located inside the `C:\Avalanche\` root directory.
 
 ---
 
@@ -36,22 +36,22 @@
 
 ### 🇷🇺 Пошаговый процесс:
 
-* **Логотип Чит-Меню:**  
+ **Логотип Чит-Меню:**  
   Перейдите в `logo (loader+menu)` ➔ Выберите нужный вариант логотипа ➔ Переименуйте его в `logo.png` ➔ Скопируйте с заменой по пути:
   ```bash
   C:\Avalanche\assets\images\logo.png
   ```
-* **Логотип Лоадера:**  
+ **Логотип Лоадера:**  
   Выберите изображение ➔ Переименуйте его в `cheatLogo.png` ➔ Перенесите с заменой в папку:
   ```bash
   C:\Avalanche\assets\loader\cheatLogo.png
   ```
-* **Смена Баннеров:**  
+ **Смена Баннеров:**  
   Скопируйте абсолютно все файлы из локальной папки `banner (loader)` и перенесите их с заменой в директорию:
   ```bash
   C:\Avalanche\assets\loader\
   ```
-* **Кастомные Иконки (Шрифты):**  
+ **Кастомные Иконки (Шрифты):**  
   Возьмите файл `icons_data.ttf` из папки `font` и переместите его с заменой в директорию:
   ```bash
   C:\Avalanche\assets\loader\icons_data.ttf
@@ -59,22 +59,22 @@
 
 ### 🇺🇸 Step-by-Step Flow:
 
-* **Cheat Menu Logo:**  
+ **Cheat Menu Logo:**  
   Open `logo (loader+menu)` ➔ Choose your asset variant ➔ Rename it to `logo.png` ➔ Move and overwrite at:
   ```bash
   C:\Avalanche\assets\images\logo.png
   ```
-* **Loader Logo:**  
+ **Loader Logo:**  
   Pick an image ➔ Rename it exactly to `cheatLogo.png` ➔ Move and overwrite inside:
   ```bash
   C:\Avalanche\assets\loader\cheatLogo.png
   ```
-* **Banners Swapping:**  
+ **Banners Swapping:**  
   Copy all files inside the local `banner (loader)` folder ➔ Paste and overwrite directly to:
   ```bash
   C:\Avalanche\assets\loader\
   ```
-* **Loader Glyphs & Fonts:**  
+ **Loader Glyphs & Fonts:**  
   Extract `icons_data.ttf` from the `font` directory ➔ Overwrite it inside:
   ```bash
   C:\Avalanche\assets\loader\icons_data.ttf
