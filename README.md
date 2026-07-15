@@ -5,18 +5,18 @@
 ## Требования / Requirements
 
 > [!IMPORTANT]
-> 🇷🇺 Архив **ДОЛЖЕН** быть полностью распакован на Рабочий стол текущего пользователя перед запуском. Работа напрямую из ZIP/RAR архива приведет к ошибкам путей! (Папка с кастомными иконками должна находиться по пути `Desktop\avcustom\ico`).
+> 🇷🇺 Архив **ДОЛЖЕН** быть полностью распакован на Рабочий стол текущего пользователя перед запуском. Работа напрямую из ZIP/RAR архива приведет к ошибкам путей.
 > 🇷🇺 Сам исполняемый файл лоадера `AvalancheLoader.exe` **ОБЯЗАТЕЛЬНО** должен предварительно лежать в папке `C:\Avalanche\`.
 
 > [!IMPORTANT]
-> 🇺🇸 The archive **MUST** be fully unpacked onto your Desktop before running. Executing scripts inside a ZIP/RAR archive will cause directory errors. (Your custom icons folder should be located at `Desktop\avcustom\ico`).
+> 🇺🇸 The archive **MUST** be fully unpacked onto your Desktop before running. Executing scripts inside a ZIP/RAR archive will cause directory errors.
 > 🇺🇸 The actual `AvalancheLoader.exe` file **MUST** be pre-located inside the `C:\Avalanche\` root directory.
 
 > [!WARNING]
-> 🇷🇺 **ВНИМАНИЕ:** После первого переноса файлов через `replacer.bat`, вам необходимо запустить лоадер, закрыть его, а затем **запустить скрипт и перенести файлы еще раз**. При первом запуске лоадер удаляет/сбрасывает кастомные файлы!
+> 🇷🇺 **ВНИМАНИЕ:** После первого переноса файлов через `replacer.bat`, вам необходимо запустить чит, закрыть его, а затем **запустить скрипт и перенести файлы еще раз**. При первом запуске лоадер удаляет/сбрасывает кастомные файлы!
 
 > [!WARNING]
-> 🇺🇸 **WARNING:** After transferring files for the first time via `replacer.bat`, you must launch the loader, close it, and then **run the script to transfer the files again**. The loader deletes/resets custom assets during its initial run!
+> 🇺🇸 **WARNING:** After transferring files for the first time via `replacer.bat`, you must launch the cheat, close it, and then **run the script to transfer the files again**. The loader deletes/resets custom assets during its initial run!
 
 ---
 
@@ -28,13 +28,13 @@
 1. Нажмите правой кнопкой мыши по файлу **`replacer.bat`** ➔ **Запуск от имени Администратора**.
 2. Выберите язык интерфейса в консоли: `1` для English или `2` для Русского.
 3. Скрипт автоматически настроит шрифты, предложит интерактивный выбор логотипов, скопирует баннеры и создаст ярлык с выбранной иконкой.
-4. **Не забудьте повторить процедуру после первого запуска лоадера!**
+4. **Не забудьте повторить процедуру после первого инжекта!**
 
 ### 🇺🇸 Instructions:
 1. Right-click **`replacer.bat`** ➔ **Run as Administrator**.
 2. Select your layout language in the console: `1` for English, `2` for Russian.
 3. The script will automatically configure fonts, prompt for logo choices, transfer banners, and create a shortcut with the selected icon.
-4. **Do not forget to repeat the process after launching the loader for the first time!**
+4. **Do not forget to repeat the process after inject for the first time!**
 
 ---
 
