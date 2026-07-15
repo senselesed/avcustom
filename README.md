@@ -14,6 +14,8 @@
 
 > [!WARNING]
 > 🇷🇺 **ВНИМАНИЕ:** После первого переноса файлов через `replacer.bat`, вам необходимо запустить лоадер, закрыть его, а затем **запустить скрипт и перенести файлы еще раз**. При первом запуске лоадер удаляет/сбрасывает кастомные файлы!
+
+> [!WARNING]
 > 🇺🇸 **WARNING:** After transferring files for the first time via `replacer.bat`, you must launch the loader, close it, and then **run the script to transfer the files again**. The loader deletes/resets custom assets during its initial run!
 
 ---
